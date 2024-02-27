@@ -1,0 +1,10 @@
+.callout[data-callout="toc"] {
+	--callout-color: 255, 181, 77;
+	--callout-icon: lucide-list;
+	width: 25%;
+}
+
+.callout[data-callout="an"] {
+	--callout-color: 55, 189, 164;
+	--callout-icon: lucide-scroll-text;
+}

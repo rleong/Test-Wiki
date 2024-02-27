@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "gnoel_custom_callouts",
+    "hide_metadata"
+  ]
+}

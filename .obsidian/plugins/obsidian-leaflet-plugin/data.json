@@ -1,0 +1,285 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1708731415321,
+      "markers": [
+        {
+          "id": "ID_583bfb8beb1a",
+          "type": "default",
+          "loc": [
+            -6.859375,
+            -1.3125
+          ],
+          "layer": "%5B%5BWorld%20Map%20Continental.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4a39e89b88",
+          "type": "default",
+          "loc": [
+            -0.28759765625,
+            0.78125
+          ],
+          "layer": "%5B%5BWorld%20Map%20Continental.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a6959091b7b",
+          "type": "default",
+          "loc": [
+            -0.98516845703125,
+            1.439453125
+          ],
+          "layer": "%5B%5BWorld%20Map%20Continental.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Geography/Interactive World Map.md"
+      ]
+    },
+    {
+      "id": "altrem-world-map",
+      "lastAccessed": 1708914574938,
+      "markers": [
+        {
+          "id": "ID_e9ca5acbfa6a",
+          "type": "default",
+          "loc": [
+            379.57421875,
+            714.0625
+          ],
+          "link": "Telmar",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b9b4b6b5b4a",
+          "type": "default",
+          "loc": [
+            467.09765625,
+            791.6524009492252
+          ],
+          "link": "Free Cities of Ourdell",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_389b387adb99",
+          "type": "default",
+          "loc": [
+            500.048828125,
+            798.5816205176995
+          ],
+          "link": "Nymeros",
+          "layer": "%5B%5BWorld%20Map%20Subdivision.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_797be9fa6beb",
+          "type": "default",
+          "loc": [
+            434.34765625,
+            847.6764268451385
+          ],
+          "link": "Fell Haven",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa5b594a4899",
+          "type": "default",
+          "loc": [
+            292.34765625,
+            751.6318225561279
+          ],
+          "link": "Merexia",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb3bfa3b590a",
+          "type": "default",
+          "loc": [
+            521.34765625,
+            592.356161761972
+          ],
+          "link": "Meriton",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a7abba909d8",
+          "type": "default",
+          "loc": [
+            618.09765625,
+            372.07484990649914
+          ],
+          "link": "Ouseki",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a280b4b882b",
+          "type": "default",
+          "loc": [
+            565.875,
+            372.25
+          ],
+          "link": "Zelishan",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            43447.50845948353,
+            -93413.56171284635
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b3aa98999ca",
+          "type": "default",
+          "loc": [
+            616.173828125,
+            683.1896317924827
+          ],
+          "link": "Sailem",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8a93a7828f8",
+          "type": "default",
+          "loc": [
+            569.25,
+            792.2499289174677
+          ],
+          "link": "Amoria",
+          "layer": "%5B%5BWorld%20Map%20Countries.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            92468.1947311401,
+            -93970.70025188917
+          ],
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Geography/Interactive World Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
